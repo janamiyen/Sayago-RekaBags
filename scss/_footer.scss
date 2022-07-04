@@ -1,0 +1,30 @@
+footer {
+    font-family: "IM Fell French Canon" !important;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    width: 100%;
+    background-image: linear-gradient(315deg, #f9c1b105 0%, #fb808540 74%);
+  }
+  
+  Iframe {
+    height: 100%;
+    width: 100%;
+    border-style: 0;
+    display: flex;
+    flex-direction: initial;
+  }
+  
+  .icons-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 22px;
+  }
+  
+  .icons {
+    align-self: center;
+  }
+  
+  .bx {
+    font-size: 60px;
+  }

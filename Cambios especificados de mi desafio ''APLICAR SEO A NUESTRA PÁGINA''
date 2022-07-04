@@ -1,0 +1,9 @@
+Use un @mixin para optimizar el codigo con las propiedades de flex, justify-content, align-items.
+Use un Map-get para identificar los colores de mis buttons.
+Use un @extend %rek para no repetir lineas de codigo como por ej "Width, Height, Cursor y margin"
+__________
+Utilice la etiqueta description en la cual identifique temas interesantes de mi sitio web
+Utilice la etiqueta Keywords para palabras claves como por ejemplo carteras 100% cuero.
+Utilice la etiqueta Author para que me identifiquen.
+Utilice una etiqueta title diferente en todas mis paginas para que se diferencien una de la otras.
+=)
